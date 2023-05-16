@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/python-bootcamp.iml" filepath="$PROJECT_DIR$/.idea/python-bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python-exercises/.idea/python-exercises.iml" filepath="$PROJECT_DIR$/../python-exercises/.idea/python-exercises.iml" />
     </modules>
   </component>
 </project>
