@@ -27,3 +27,8 @@ print(total_shipping_cost)
 total_cost = total_order_cost + total_shipping_cost
 rounded_total_cost = round(total_cost, 2)
 print(f"${rounded_total_cost}")
+
+myPi = 3.14e0
+print(myPi)
+
+print('$', myPi)
