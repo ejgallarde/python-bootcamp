@@ -6,7 +6,7 @@
 
 """
     This exercise carries out some basic operations on variables.
-    This exercise calculates the volume of a sphere
+    This exercise also carries out some basic if-elif-else statements.
 """
 
 grade = int(input("Enter an int from 0-100:"))  # Assume correct input
