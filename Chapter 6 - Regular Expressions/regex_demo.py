@@ -1,5 +1,5 @@
 #! /usr/bin/env python3
-# Name:         .py
+# Name:         regex_demo.py
 # Author:       Earl John Gallarde
 # Revision:     v1.0
 # Description:  This program will demo how to match str data using Regular Expressions
@@ -17,7 +17,7 @@ fh_in = open(r"words.txt", mode="rt")
 for line in fh_in:
     # Example of str testing.
     # if line.startswith("Y") and line.rstrip("\n").endswith("n") and "town" in line:
-    m = re.search(r"^the", line) # Match lines starting with 'the'.
+    m = re.search(r"^the", line)  # Match lines starting with 'the'.
     # m = re.search(r"ing$", line) # Match lines ending with 'ing'.
     # m = re.search(r"^.ing$", line) # Match lines with bing|ding|king....
     # m = re.search(r"^[pk]ing$", line) # Match lines with king|ping.
@@ -37,5 +37,4 @@ for line in fh_in:
     if m:
         print(line, end="")
 
-
-fh_in.close() # Flush buffers and close file handles.
+fh_in.close()  # Flush buffers and close file handles.
