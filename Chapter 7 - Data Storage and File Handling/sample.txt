@@ -1,0 +1,3 @@
+Hello, world!
+Python is an interesting language.
+End of file.
