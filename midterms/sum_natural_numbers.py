@@ -21,6 +21,7 @@ def sum_natural_numbers(n, m):
     for i in range(1, n + 1):
         if i % m != 0:
             sum_nat_num += n
+    # total_sum = sum(i for i in range(1, n + 1) if i % m != 0)  - simpler
     return sum_nat_num
 
 
