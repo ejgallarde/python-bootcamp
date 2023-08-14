@@ -11,7 +11,7 @@
 # Source collection (list of names).
 students = ['sai', 'earl', 'sajith', 'guangyu', 'manting', 'craig', 'shae', 'mahesh', 'shae']
 
-# Copy and filter source collection to a dest collection using..
+# Copy and filter source collection to a destination collection using:
 # 1.Iterator for loop plus source, option if condition (filtering), expression.
 wee_names = []
 for name in students:  # 1.Iterator loop plus source.
