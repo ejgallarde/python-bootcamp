@@ -18,8 +18,7 @@ movies = {'mahesh': ['rrr', 'avatar', 'avengers'],
 
 # Open file handle for Writing in Text Mode.
 # Replace the destination as needed
-fh_out = open(r"C:\Users\ecgallar\PycharmProjects\python-bootcamp\Chapter 7 - Data Storage and File Handling\movies.txt"
-              , mode="wt")
+fh_out = open(r"movies.txt", mode="wt")
 
 # Iterate through keys in the movies dict and write movie info
 # to file handle using an ITERATOR for loop.
@@ -34,8 +33,7 @@ fh_out.close()  # Flush buffers and close file handle.
 print("-" * 60)
 
 # Open file handle for READING in Text mode.
-fh_in = open(r"C:\Users\ecgallar\PycharmProjects\python-bootcamp\Chapter 7 - Data Storage and File Handling\movies.txt",
-             mode="rt")
+fh_in = open(r"movies.txt", mode="rt")
 
 # text = fh_in.read() # Read ENTIRE file into str object. Be careful.
 # text = fh_in.read(30) # Read NEXT 30 chars into str object.

@@ -1,3 +1,10 @@
+#! /usr/bin/env python3
+# Name:        filehandling_demo.py
+# Author:      Earl John Gallarde
+# Revision:    v1.0
+# Description: This program will demo how to open, close, read
+# and write randomly to a file using the .seek() and .tell()
+
 def demo():
     # create a new file
     f = open("myfile.txt", "w")
