@@ -1,5 +1,5 @@
 #! /usr/bin/env python3
-# Name:        sum_natural_numbers.py
+# Name:        count_lines.py
 # Author:      Earl John Gallarde
 # Revision:    v1.0
 # Description: This program counts the number of lines in a file
