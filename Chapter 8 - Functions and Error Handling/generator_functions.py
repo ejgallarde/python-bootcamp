@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
-# Name:        .py
-# Author:      Donald Cameron
+# Name:        generator_functions.py
+# Author:      Earl John Gallarde
 # Revision:    v1.0
 # Description: This program will demo how to yield objects one at a time using
 # a generator function (memory efficient).
