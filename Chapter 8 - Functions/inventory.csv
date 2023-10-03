@@ -1,0 +1,24 @@
+ID,Name,Description,Quantity,Price,Category,Date Added,Added By,Date Updated,Updated By,Expiration Date,Storage Instructions,Warranty Period,Dimensions,Safety Instructions
+FOOD-ED14BE67,Apple,Organic,87,47.76,FOOD,8/29/2023 8:46,System,8/29/2023 8:46,System,12/23/2023,Cool Place,,,
+FOOD-54518A20,Apple,Organic,10,38.2,FOOD,8/29/2023 8:46,System,8/29/2023 8:46,System,2/13/2024,Cool Place,,,
+FOOD-6B82D888,Banana,Quality,29,42.31,FOOD,8/29/2023 8:46,System,8/29/2023 8:46,System,7/13/2024,Room Temp,,,
+FOOD-379DC0A0,Carrot,Popular,36,53.25,FOOD,8/29/2023 8:46,System,8/29/2023 8:46,System,11/22/2023,Cool Place,,,
+FOOD-D92E3AA4,Potato,Fresh,89,70.55,FOOD,8/29/2023 8:46,System,8/29/2023 8:46,System,12/26/2023,Dry Place,,,
+FOOD-99FC7917,Apple,Organic,92,99.37,FOOD,8/29/2023 8:46,System,8/29/2023 8:46,System,8/21/2024,Cool Place,,,
+FOOD-191A47FC,Egg,Organic,54,28.35,FOOD,8/29/2023 8:46,System,8/29/2023 8:46,System,1/31/2024,Freeze,,,
+FOOD-6C48D94A,Carrot,Fresh,95,81.61,FOOD,8/29/2023 8:46,System,8/29/2023 8:46,System,8/12/2024,Cool Place,,,
+FOOD-A2287DFF,Banana,Organic,55,76.34,FOOD,8/29/2023 8:46,System,8/29/2023 8:46,System,8/24/2024,Room Temp,,,
+FOOD-04433656,Egg,Quality,71,44.59,FOOD,8/29/2023 8:46,System,8/29/2023 8:46,System,4/2/2024,Freeze,,,
+BEAU-5F119D3F,Soap,New,97,38.7,BEAU,8/29/2023 8:46,System,8/29/2023 8:46,System,,,24,10x10x10 cm,For external use only
+BEAU-8AFCFA26,Shampoo,Fresh,18,22.63,BEAU,8/29/2023 8:46,System,8/29/2023 8:46,System,,,12,15x15x15 inches,Avoid contact with eyes
+BEAU-680999A1,Shampoo,Quality,3,24.23,BEAU,8/29/2023 8:46,System,8/29/2023 8:46,System,,,36,15x15x15 inches,Avoid contact with eyes
+HOME-FF5615BE,Table,Popular,91,46.77,HOME,8/29/2023 8:46,System,8/29/2023 8:46,System,,,36,10x10x10 cm,Handle with care
+HOME-9414E61E,Table,Popular,26,11.94,HOME,8/29/2023 8:46,System,8/29/2023 8:46,System,,,12,20x20x20 cm,Handle with care
+HOME-3B768E50,Table,New,78,20.29,HOME,8/29/2023 8:46,System,8/29/2023 8:46,System,,,48,15x15x15 inches,Handle with care
+BEAU-03804C13,Shampoo,New,25,53.54,BEAU,8/29/2023 8:46,System,8/29/2023 8:46,System,,,48,5x5x5 inches,Avoid contact with eyes
+BEAU-EB8FE148,Soap,Popular,60,59.3,BEAU,8/29/2023 8:46,System,8/29/2023 8:46,System,,,60,10x10x10 cm,For external use only
+BEAU-862C6875,Shampoo,Fresh,27,5.61,BEAU,8/29/2023 8:46,System,8/29/2023 8:46,System,,,60,15x15x15 inches,Avoid contact with eyes
+ELEC-D441B3F5,Laptop,Popular,20,92.05,ELEC,8/29/2023 8:46,System,8/29/2023 8:46,System,,,48,20x20x20 cm,Read manual
+OFFC-889D73C7,Pen,Bic,100,30.0,OFFC,2023-09-05,System,2023-09-05,System,,,0,NA,NA
+TOOL-377071D4,Hammer,1,1,350.0,TOOL,2023-09-05,System,2023-09-05,System,,,0,test,test
+ARTS-493CC344,Crayola,24 pcs crayons,3,140.0,ARTS,2023-09-05,System,2023-09-15,System,,,0,NA,Do not eat
