@@ -21,19 +21,6 @@
 """
 
 
-# Future variables - Commented out for now
-# Additional product info
-# units_of_measurement    # str
-# date_added = ''         # datetime
-# added_by = ''
-# date_updated = ''       # datetime
-# updated_by = ''
-# supplier_id = ''
-# expiration_date = ''    # datetime
-# discount = 0.0          # product discount based on expiration date
-# rating = ''             # product rating in stars
-
-
 def validate_input(prompt, expected_type):
     """
     Prompts the user for input and validates its type and value.
